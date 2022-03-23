@@ -1,0 +1,74 @@
+﻿D:\Programme\Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Das Zwischenverzeichnis (Release\) enthält freigegebene Dateien aus einem anderen Projekt (GaphicDemo.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  compilation object save succeeded; see D:\School\SAE\Projekte\3D-Object-Rendering\Release\PhongPixelShader.cso
+  compilation object save succeeded; see D:\School\SAE\Projekte\3D-Object-Rendering\Release\PhongVertexShader.cso
+  compilation object save succeeded; see D:\School\SAE\Projekte\3D-Object-Rendering\Release\ReflectPixelShader.cso
+  compilation object save succeeded; see D:\School\SAE\Projekte\3D-Object-Rendering\Release\ReflectVertexShader.cso
+  compilation object save succeeded; see D:\School\SAE\Projekte\3D-Object-Rendering\Release\UnlitPixelShader.cso
+  compilation object save succeeded; see D:\School\SAE\Projekte\3D-Object-Rendering\Release\UnlitVertexShader.cso
+  Camera.cpp
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(36,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(42,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(69,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+  Direct3D.cpp
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Direct3D.cpp(77,19): warning C4244: "=": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Direct3D.cpp(78,20): warning C4244: "=": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Direct3D.cpp(94,86): warning C4305: "Argument": Verkürzung von "unsigned int" in "UINT8"
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Direct3D.cpp(94,76): warning C4309: "Argument": Verkürzung eines konstanten Wertes
+  DirLight.cpp
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(36,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(42,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(69,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+  HitBox.cpp
+  HeightBox.cpp
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(36,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(42,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(69,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+  Skybox.cpp
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(36,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(42,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(69,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\File.h(21,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Player.cpp
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(36,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(42,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(69,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Physics\Player.cpp(68,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Physics\Player.cpp(69,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Physics\Player.cpp(70,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Physics\Player.cpp(71,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Input.cpp
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(36,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(42,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(69,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Input.cpp(9,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Input.cpp(10,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Input.cpp(20,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Input.cpp(21,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+  Main.cpp
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(36,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(42,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(69,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\File.h(21,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Main.cpp(20,12): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Main.cpp(21,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+  Material.cpp
+  Mesh.cpp
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(36,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(42,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(69,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\File.h(21,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Sphere.cpp
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(36,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(42,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(69,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\File.h(21,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Time.cpp
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(36,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(42,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\School\SAE\Projekte\3D-Object-Rendering\3D Objekt Rendering\Utility\Util.h(69,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+  Window.cpp
+  Code wird generiert.
+  Compiler switch has changed, fall back to full compilation.
+  All 814 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  3D Objekt Rendering.vcxproj -> D:\School\SAE\Projekte\3D-Object-Rendering\Release\3D Objekt Rendering.exe
