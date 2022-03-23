@@ -1,5 +1,0 @@
-﻿D:\Programme\Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Das Zwischenverzeichnis (Debug\) enthält freigegebene Dateien aus einem anderen Projekt (GaphicDemo.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
-  Main.cpp
-D:\OneDrive\School\GaphicDemo\GaphicDemo\Util.h(10,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
-D:\OneDrive\School\GaphicDemo\GaphicDemo\Util.h(11,46): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
-  GaphicDemo.vcxproj -> D:\OneDrive\School\GaphicDemo\Debug\3D Objekt Rendering.exe
